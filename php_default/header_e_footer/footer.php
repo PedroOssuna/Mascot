@@ -6,7 +6,7 @@
             <li <?php active($linkDenuncie) ?>><a href="<?php echo $linkDenuncie; ?>">Denuncie</a></li>
         </ul>
         <ul class="nav pull-right">
-            <li><a href="mailto:faleconosco@mascot.com"><i class="icon-envelope icon-white"></i> faleconosco@mascot.com</a></li>
+            <li><a href="https://api.whatsapp.com/send?phone=5567996348646&text=Ol%C3%A1"><i class="fa fa-whatsapp"></i> faleconosco@mascot.com</a></li>
         </ul>
     </div>
 </div>
